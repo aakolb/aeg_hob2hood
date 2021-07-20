@@ -11,8 +11,7 @@ Just lean back and comfortably control your extractor hood via MQTT or let your 
 # Compatibility
 This program is compatible with ESP8266 (Wemos or NodeMCU und 4 Relays modul)
 
-
-## How to connect an NRF24 to an ESP8266.
+#### How to connect an NRF24 to an ESP8266.
 NodeMCU | IR | Relays
 -- | -- | --
 GND | GND | GND
@@ -23,7 +22,6 @@ D5 (GPIO14) | - | IN2
 D7 (GPIO13) | - | IN3
 D6 (GPIO12) | - | IN4
 
-
-
+#### or use one pcb with 4 Relays.
 
 ![pcs](docs/PCB.jpg)
