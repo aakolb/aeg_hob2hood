@@ -21,6 +21,7 @@ D8 (GPIO15) | - | IN1
 D5 (GPIO14) | - | IN2
 D7 (GPIO13) | - | IN3
 D6 (GPIO12) | - | IN4
+
 ![ir](docs/iduino-ir.jpg)
 
 #### or use one pcb with 4 Relays.
