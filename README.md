@@ -2,7 +2,7 @@
 
 
 # What is Hob2Hood
-The Hob2Hood function automatically controls the power of the extraction based upon the hob usage. The hood will turn on at the most suitable speed, adapting the extraction capacity to the cooking level used in the cooking zone.
+The Hob2Hood function automatically controls the power of the extraction based upon the hob usage. The hood will turn on at the most suitable speed, adapting the extraction capacity to the cooking level, which used in the cooking zone.
 
 
 # What is this project
