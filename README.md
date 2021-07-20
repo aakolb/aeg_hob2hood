@@ -23,7 +23,7 @@ D7 (GPIO13) | - | IN3
 D6 (GPIO12) | - | IN4
 
 ![ir](docs/wemos.jpg)
-![ir](docs/iduino-ir.jpg)
+![ir](docs/iduino-ir-sensor.jpg)
 ![ir](docs/relaysmodul.jpg)
 
 #### or use one pcb with 4 Relays.
