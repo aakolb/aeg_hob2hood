@@ -28,4 +28,4 @@ D6 (GPIO12) | - | IN4
 
 #### or use one pcb with 4 Relays.
 
-![pcs](docs/PCB.jpg)
+![pcs](docs/PCBmodule.jpg)
